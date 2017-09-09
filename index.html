@@ -220,7 +220,7 @@ var institutions = (function() {
         var institutions = null;
         $.ajax({
             'async': false,
-            'url': "https://nielsalstrup.github.io/minpasning/data/HOVEDSTADEN-VUGGESTUER.geojson",
+            'url': "../data/HOVEDSTADEN-VUGGESTUER.geojson",
             'dataType': "json",
             'success': function (data) {
                 institutions = data;
@@ -250,9 +250,9 @@ var institutions = (function() {
               property: "point_count",
               type: "interval",
               stops: [
-                  [0, "#ff8800"],
-                  [50, "#e64400"],
-                  [150, "#cc0000"],
+                  [0, "#ff6600"],
+                  [50, "#ff3300"],
+                  [150, "#ff0000"],
               ]
           },
           "circle-radius": {
