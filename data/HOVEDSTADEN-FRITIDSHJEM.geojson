@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.506458,55.698619 ]
+    },
+    "properties": {
+    "NAVN":"Bellahøj Fritidscenter",
+    "KOMMUNE":"København",
+    "ADRESSE":"Bellahøjvej 42B",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"www.bellahoj-fritidscenter.dk/",
+    "MA":"13:30-17:00",
+    "TI":"13:30-17:00",
+    "ON":"13:30-17:00",
+    "TO":"13:30-17:00",
+    "FR":"13:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie ",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bellahøjvej 42B&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.621609,55.659180 ]
+    },
+    "properties": {
+    "NAVN":"Fritidshjemmet Marengovej",
+    "KOMMUNE":"København",
+    "ADRESSE":"Marengovej 23",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"www.marengovej.dk/",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Marengovej 23&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.557934,55.692250 ]
+    },
+    "properties": {
+    "NAVN":"Fritidshjemmet Møllen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Møllegade 25D",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Møllegade 25D&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.616717,55.651330 ]
+    },
+    "properties": {
+    "NAVN":"Fritidshjemmet Pingvinen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Grækenlandsvej 53",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Grækenlandsvej 53&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.479176,55.712872 ]
+    },
+    "properties": {
+    "NAVN":"Fritidshjemmet Voldparken",
+    "KOMMUNE":"København",
+    "ADRESSE":"Arildsgård 13",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Arildsgård 13&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.615629,55.647092 ]
+    },
+    "properties": {
+    "NAVN":"Herligheden",
+    "KOMMUNE":"København",
+    "ADRESSE":"Gerbrandsvej 7",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"www.herligheden.kk.dk/",
+    "MA":"06:15-17:15",
+    "TI":"06:15-17:15",
+    "ON":"06:15-17:15",
+    "TO":"06:15-17:15",
+    "FR":"06:15-17:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gerbrandsvej 7&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.583358,55.706142 ]
+    },
+    "properties": {
+    "NAVN":"Hjems Fritidshjem",
+    "KOMMUNE":"København",
+    "ADRESSE":"Århusgade 68",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Århusgade 68&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.481895,55.696183 ]
+    },
+    "properties": {
+    "NAVN":"Kirkebjerg Fritidshjem",
+    "KOMMUNE":"København",
+    "ADRESSE":"Skjulhøj Alle 58",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Skjulhøj Alle 58&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.601659,55.655967 ]
+    },
+    "properties": {
+    "NAVN":"Præstevængets Fritidscenter",
+    "KOMMUNE":"København",
+    "ADRESSE":"Glommensgade 5",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"https://subsite.kk.dk/upload/InstitutionPortal/35537_I_PresentationLeaflet_pfc_-_fh_velkommen.pdf",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"Natur",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Glommensgade 5&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.595116,55.662240 ]
+    },
+    "properties": {
+    "NAVN":"Solen og Stjernerne",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sundholmsvej 2c",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sundholmsvej 2c&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.606514,55.663842 ]
+    },
+    "properties": {
+    "NAVN":"Sundby Fritidshjem",
+    "KOMMUNE":"København",
+    "ADRESSE":"Geislersgade 17",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Geislersgade 17&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.572360,55.684088 ]
+    },
+    "properties": {
+    "NAVN":"Thomas P Hejles Fritidshjem",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Voldgade 23",
+    "POSTNR":"1358",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Voldgade 23&postnr=1358&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.581349,55.704009 ]
+    },
+    "properties": {
+    "NAVN":"Tryk 16",
+    "KOMMUNE":"København",
+    "ADRESSE":"Randersgade 16",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Fritidshjem",
+    "TELEFON":"",
+    "WEB":"www.oe9.kk.dk",
+    "MA":"06:30-17:15",
+    "TI":"06:30-17:15",
+    "ON":"06:30-17:15",
+    "TO":"06:30-17:15",
+    "FR":"06:30-17:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE 9",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Randersgade 16&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+]
+}

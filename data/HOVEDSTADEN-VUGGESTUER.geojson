@@ -1,0 +1,4535 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.32814855,55.87264429 ]
+    },
+    "properties": {
+    "NAVN":"Rønneholtparkens Vuggestue",
+    "KOMMUNE":"Allerød",
+    "ADRESSE":"Violvej 7",
+    "POSTNR":"3450",
+    "POSTDISTRIKT":"Allerød",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"48171077",
+    "WEB":"www.roenneholtparkens-vug.dk/forside.asp",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Violvej 7&postnr=3450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.40639636,55.72169985 ]
+    },
+    "properties": {
+    "NAVN":"Paraplyen",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Lundebjerggårdsvej 104B",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"44771620",
+    "WEB":"https://ballerup.inst.dk/Foresides/IntraForeside.aspx?Location=IP.7",
+    "MA":"06:30-16:45",
+    "TI":"06:30-16:45",
+    "ON":"06:30-16:45",
+    "TO":"06:30-16:45",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Lundebjerg 2",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lundebjerggårdsvej 104B&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.40687094,55.72178602 ]
+    },
+    "properties": {
+    "NAVN":"Børnehuset sol og mudder",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Lundebjerggårdsvej 104C",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"44773651",
+    "WEB":"https://ballerup.inst.dk/Foresides/IntraForeside.aspx?Location=IP.8&PublicMenuNodeId=17",
+    "MA":"06:25-16:45",
+    "TI":"06:25-16:45",
+    "ON":"06:25-16:45",
+    "TO":"06:25-16:45",
+    "FR":"06:25-16:05",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Børnehuset sol og mudder/Lundebjerg",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lundebjerggårdsvej 104C&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.66108066,55.59937494 ]
+    },
+    "properties": {
+    "NAVN":"Nordstrandens Vuggestue",
+    "KOMMUNE":"Dragør",
+    "ADRESSE":"Hartkornsvej 34",
+    "POSTNR":"2791",
+    "POSTDISTRIKT":"Dragør",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32890415",
+    "WEB":"https://dragoer.inst.dk/Institution/DetailItem.aspx?Location=IP.B",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Hartkornsvej 34&postnr=2791&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.42083941,55.96915196 ]
+    },
+    "properties": {
+    "NAVN":"Paddehatten",
+    "KOMMUNE":"Fredensborg ",
+    "ADRESSE":"Lystholm 14",
+    "POSTNR":"3480",
+    "POSTDISTRIKT":"Fredensborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72562584",
+    "WEB":"www.bornehusene-fredensborg.dk/vores+huse/paddehatten+-+vuggestue",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-16:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lystholm 14&postnr=3480&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4956313,55.90882431 ]
+    },
+    "properties": {
+    "NAVN":"Blomsterengen",
+    "KOMMUNE":"Fredensborg ",
+    "ADRESSE":"Broengen 1 og 4",
+    "POSTNR":"2980",
+    "POSTDISTRIKT":"Kokkedal",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72565662",
+    "WEB":"",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-16:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Børnehusene Kokkedal",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Broengen 1&postnr=2980&format=csv",
+    "ADRESSE-KORREKTION":"Broengen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.501735,55.682202 ]
+    },
+    "properties": {
+    "NAVN":"Børnehuset Evigglad - Vuggestue",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Finsensvej 83, st.",
+    "POSTNR":"2000",
+    "POSTDISTRIKT":"Frederiksberg",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.børnehusetevigglad.dk",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30:16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Finsensvej 83&postnr=2000&format=csv",
+    "ADRESSE-KORREKTION":"Finsensvej 83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.544499,55.685312 ]
+    },
+    "properties": {
+    "NAVN":"KVL'S Børnehus",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Rolighedsvej 23D",
+    "POSTNR":"1958",
+    "POSTDISTRIKT":"Frederiksberg C",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.kvlsbornehus.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rolighedsvej 23D&postnr=1958&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.547813,55.676430 ]
+    },
+    "properties": {
+    "NAVN":"Min lille verden",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Lykkesholms Alle 8A",
+    "POSTNR":"1902",
+    "POSTDISTRIKT":"Frederiksberg C",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"https://minlilleverden.dk/profil/",
+    "MA":"07:10-17:00",
+    "TI":"07:10-17:00",
+    "ON":"07:10-17:00",
+    "TO":"07:10-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lykkesholms Alle 8A&postnr=1902&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.541678,55.671585 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Platangården",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Carit Etlars Vej 17",
+    "POSTNR":"1814",
+    "POSTDISTRIKT":"Frederiksberg C",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"platangaarden@frederiksberg.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-16:30",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Carit Etlars Vej 17&postnr=1814&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.559881,55.671916 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Abel",
+    "KOMMUNE":"København",
+    "ADRESSE":"Abel Cathrines Gade 17",
+    "POSTNR":"1654",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"https://plus.google.com/100139702440559471300",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Abel Cathrines Gade 17&postnr=1654&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496422,55.692491 ]
+    },
+    "properties": {
+    "NAVN":"Adventskirkens Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Randbølvej 63",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuena.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Randbølvej 63&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.585984,55.700636 ]
+    },
+    "properties": {
+    "NAVN":"Akvariet",
+    "KOMMUNE":"København",
+    "ADRESSE":"Næstvedgade 3",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe6.kk.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Klynge Ø6",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Næstvedgade 3&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543472,55.670253 ]
+    },
+    "properties": {
+    "NAVN":"Barndommens Gade",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tøndergade 10",
+    "POSTNR":"1752",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.barndommens-gade.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tøndergade 10&postnr=1752&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543026,55.669209 ]
+    },
+    "properties": {
+    "NAVN":"Barnets Hus - Amerikavej",
+    "KOMMUNE":"København",
+    "ADRESSE":"Amerikavej 15",
+    "POSTNR":"1756",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"barnetshusamerikavej.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Amerikavej 15&postnr=1756&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.534463,55.706619 ]
+    },
+    "properties": {
+    "NAVN":"Bispebjerg Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sadelmagervej 4",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"abildgaarden-info.dk/forside.asp",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sadelmagervej 4&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543007,55.717044 ]
+    },
+    "properties": {
+    "NAVN":"Væksthuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tuborgvej 233",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:00-17:00",
+    "TI":"06:00-17:00",
+    "ON":"06:00-17:00",
+    "TO":"06:00-17:00",
+    "FR":"06:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Weekend åbent",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tuborgvej 233&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.549647,55.647265 ]
+    },
+    "properties": {
+    "NAVN":"Børnehuset Sluseholmen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Dexter Gordons Vej 1",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.ve7.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Dexter Gordons Vej 1&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.562408,55.724461 ]
+    },
+    "properties": {
+    "NAVN":"Børneringens Børnehus",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rymarksvej 19",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"subsite.kk.dk/upload/InstitutionPortal/35263_I_PresentationLeaflet_Velkomstfolder2014.pdf",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rymarksvej 19&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.588693,55.704792 ]
+    },
+    "properties": {
+    "NAVN":"Charlottehaven",
+    "KOMMUNE":"København",
+    "ADRESSE":"Gammel Kalkbrænderi Vej 45",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe6.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Ø6",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gammel Kalkbrænderi Vej 45&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.561281,55.686414 ]
+    },
+    "properties": {
+    "NAVN":"Den Gule Prik",
+    "KOMMUNE":"København",
+    "ADRESSE":"Baggesensgade 1",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"denguleprik.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Baggesensgade 1&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.558395,55.683437 ]
+    },
+    "properties": {
+    "NAVN":"Dosseringens vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Ewaldsgade 1",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"35354031",
+    "WEB":"",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ewaldsgade 1&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.535612,55.705488 ]
+    },
+    "properties": {
+    "NAVN":"Enighedens Børnehus",
+    "KOMMUNE":"København",
+    "ADRESSE":"Bygmestervej 9",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bi2.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"b1",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bygmestervej 9&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.529313,55.717667 ]
+    },
+    "properties": {
+    "NAVN":"Filosofvængets",
+    "KOMMUNE":"København",
+    "ADRESSE":"Filosofvænget 17",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bi1.kk.dk/Filosofvaenget/~/media/bi1/Filosofvænget/2012/Årsplan%2011-12%20filosofvænget.ashx",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"bi1",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Filosofvænget 17&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.596762,55.652984 ]
+    },
+    "properties": {
+    "NAVN":"Firkløveren",
+    "KOMMUNE":"København",
+    "ADRESSE":"Peder Lykkes Vej 79",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Peder Lykkes Vej 79&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.555450,55.699579 ]
+    },
+    "properties": {
+    "NAVN":"Fix-Karreen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Jagtvej 105",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"fixkarreen.dk/default.htm",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Jagtvej 105&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.580701,55.712122 ]
+    },
+    "properties": {
+    "NAVN":"Fluen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nyborggade 23",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe8.kk.dk/Fluen_0_3_aar",
+    "MA":"06:30-17:15",
+    "TI":"06:30-17:15",
+    "ON":"06:30-17:15",
+    "TO":"06:30-17:15",
+    "FR":"06:30-17:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nyborggade 23&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.605016,55.639039 ]
+    },
+    "properties": {
+    "NAVN":"Følfodvejs Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Følfodvej 118",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32500054",
+    "WEB":"",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Følfodvej 118&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.554893,55.697243 ]
+    },
+    "properties": {
+    "NAVN":"Guldberg",
+    "KOMMUNE":"København",
+    "ADRESSE":"Arresøgade 20",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"vuggestuenguldberg.dk",
+    "MA":"06:45-17:15",
+    "TI":"06:45-17:15",
+    "ON":"06:45-17:15",
+    "TO":"06:45-17:15",
+    "FR":"06:45-16:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Arresøgade 20&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.490883,55.706649 ]
+    },
+    "properties": {
+    "NAVN":"Haletudsen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Kabbelejevej 8",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"38800240",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kabbelejevej 8&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.540244,55.664800 ]
+    },
+    "properties": {
+    "NAVN":"Himmelblå",
+    "KOMMUNE":"København",
+    "ADRESSE":"Slesvigsgade 12",
+    "POSTNR":"1762",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Slesvigsgade 12&postnr=1762&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.587840,55.636833 ]
+    },
+    "properties": {
+    "NAVN":"Høstakken",
+    "KOMMUNE":"København",
+    "ADRESSE":"Høstgildevej 2",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32524610",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Høstgildevej 2&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.611143,55.650376 ]
+    },
+    "properties": {
+    "NAVN":"Ingolf",
+    "KOMMUNE":"København",
+    "ADRESSE":"Ingolfs Allé 8",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ingolfs Allé 8&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.549720,55.694738 ]
+    },
+    "properties": {
+    "NAVN":"Jagtvejens Asyls Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Prinsesse Charlottes Gade 59",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"jagtvejensasyl.dk",
+    "MA":"08:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Prinsesse Charlottes Gade 59&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.479537,55.712709 ]
+    },
+    "properties": {
+    "NAVN":"Juvelen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Arildsgård 9",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Arildsgård 9&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.492430,55.683870 ]
+    },
+    "properties": {
+    "NAVN":"Kastanie Allé",
+    "KOMMUNE":"København",
+    "ADRESSE":"Kastanie Allé 2D",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.van4.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"van4",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kastanie Allé 2D&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.487250,55.655688 ]
+    },
+    "properties": {
+    "NAVN":"Kastaniehuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vigerslev Allé 175",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuenkastaniehuset.dk",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Børneringen",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vigerslev Allé 175&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.606799,55.665499 ]
+    },
+    "properties": {
+    "NAVN":"Kastanien",
+    "KOMMUNE":"København",
+    "ADRESSE":"Holmbladsgade 33",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Holmbladsgade 33&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.473681,55.686460 ]
+    },
+    "properties": {
+    "NAVN":"Kernehuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tyborøn Allé 55",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.van1.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"van1",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tyborøn Allé 55&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.594918,55.658436 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuerne Hørgården",
+    "KOMMUNE":"København",
+    "ADRESSE":"Amagerfælledvej 99",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Amagerfælledvej 99&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.553981,55.700440 ]
+    },
+    "properties": {
+    "NAVN":"Kollegiegårdens Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tagensvej 52, 7.",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.kollegiegaardensvuggestue.dk/index.asp",
+    "MA":"07:30-16:30",
+    "TI":"07:30-16:30",
+    "ON":"07:30-16:30",
+    "TO":"07:30-16:30",
+    "FR":"07:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tagensvej 52, 7.&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.623976,55.654141 ]
+    },
+    "properties": {
+    "NAVN":"Kompasset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Backersvej 107",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:00-17:45",
+    "TI":"06:00-17:45",
+    "ON":"06:00-17:45",
+    "TO":"06:00-17:45",
+    "FR":"06:00-17:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Weekend åbent",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Backersvej 107&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.581971,55.704443 ]
+    },
+    "properties": {
+    "NAVN":"Krausesvejs Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Krausesvej 6",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe9.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE 9",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Krausesvej 6&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.560082,55.688777 ]
+    },
+    "properties": {
+    "NAVN":"Hønsegården",
+    "KOMMUNE":"København",
+    "ADRESSE":"Fælledvej 8",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Fælledvej 8&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543472,55.670253 ]
+    },
+    "properties": {
+    "NAVN":"Barndommensgade",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tøndergade 10",
+    "POSTNR":"1752",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"barndommens-gade.dk/index.html",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tøndergade 10&postnr=1752&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.574260,55.710736 ]
+    },
+    "properties": {
+    "NAVN":"Luna",
+    "KOMMUNE":"København",
+    "ADRESSE":"Reersøgade 17",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Reersøgade 17&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543163,55.667954 ]
+    },
+    "properties": {
+    "NAVN":"Børneringens Vuggestue Lyrskov",
+    "KOMMUNE":"København",
+    "ADRESSE":"Lyrskovgade 8",
+    "POSTNR":"1758",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"33318588",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lyrskovgade 8&postnr=1758&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.582702,55.634464 ]
+    },
+    "properties": {
+    "NAVN":"M-Husets Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Ørestads Boulevard 57B",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.m-husetsvuggestue.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"A6b",
+    "ANDET":"Idræt",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ørestads Boulevard 57B&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.533964,55.659420 ]
+    },
+    "properties": {
+    "NAVN":"Mini Ajax - børn i bevægelse",
+    "KOMMUNE":"København",
+    "ADRESSE":"Bavnehøj allé 32",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.miniajax.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bavnehøj allé 32&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.559609,55.693494 ]
+    },
+    "properties": {
+    "NAVN":"Mosters Hus",
+    "KOMMUNE":"København",
+    "ADRESSE":"Møllegade 35",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.mostershus.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"NB 8",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Møllegade 35&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.522803,55.648442 ]
+    },
+    "properties": {
+    "NAVN":"Red Barnets Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Händelsvej 68",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.redbarnetsvuggestue.dk/index.asp",
+    "MA":"6:30-17:00",
+    "TI":"6:30-17:00",
+    "ON":"6:30-17:00",
+    "TO":"6:30-17:00",
+    "FR":"16:45-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Händelsvej 68&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.507777,55.668021 ]
+    },
+    "properties": {
+    "NAVN":"Regnbuen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Lukretiavej 12",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lukretiavej 12&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571019,55.681249 ]
+    },
+    "properties": {
+    "NAVN":"Røde Kors Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørregade 37A",
+    "POSTNR":"1165",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:15",
+    "TI":"07:00-17:15",
+    "ON":"07:00-17:15",
+    "TO":"07:00-17:15",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørregade 37A&postnr=1165&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.553545,55.698755 ]
+    },
+    "properties": {
+    "NAVN":"Røde Rose 1",
+    "KOMMUNE":"København",
+    "ADRESSE":"Jagtvej 141",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.røderose1.dk/Vuggestuens_historie",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Danske Daginstitutioner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Jagtvej 141&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.506754,55.697647 ]
+    },
+    "properties": {
+    "NAVN":"Rødkilde",
+    "KOMMUNE":"København",
+    "ADRESSE":"Bellahøjvej 48",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bh3.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"BH 3",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bellahøjvej 48&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.534673,55.656493 ]
+    },
+    "properties": {
+    "NAVN":"Sjællandshuse",
+    "KOMMUNE":"København",
+    "ADRESSE":"Natalie Zahles Vej 23",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.sjællandshuse.dk",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Natalie Zahles Vej 23&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.607186,55.642739 ]
+    },
+    "properties": {
+    "NAVN":"Skattekisten",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vejlands Allé 55",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.skattekisten-kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vejlands Allé 55&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.603641,55.658703 ]
+    },
+    "properties": {
+    "NAVN":"Smørhullet",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tingvej 23",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tingvej 23&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.572875,55.711423 ]
+    },
+    "properties": {
+    "NAVN":"Smørhullet",
+    "KOMMUNE":"København",
+    "ADRESSE":"Fanøgade 21",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe3.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE 3",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Fanøgade 21&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.588214,55.670047 ]
+    },
+    "properties": {
+    "NAVN":"Smørklatten",
+    "KOMMUNE":"København",
+    "ADRESSE":"Christianshavns Voldgade 5A",
+    "POSTNR":"1424",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.ib8.kk.dk",
+    "MA":"07:00-17:30",
+    "TI":"07:00-17:30",
+    "ON":"07:00-17:30",
+    "TO":"07:00-17:30",
+    "FR":"07:00-16:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"IB8",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Christianshavns Voldgade 5A &postnr=1424&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.553652,55.709916 ]
+    },
+    "properties": {
+    "NAVN":"Snorregården",
+    "KOMMUNE":"København",
+    "ADRESSE":"Ragnhildgade 80",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe4.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"ØB4",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ragnhildgade 80&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.590073,55.671678 ]
+    },
+    "properties": {
+    "NAVN":"Sofiegårdens Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Overgaden Oven Vandet 32B",
+    "POSTNR":"1415",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.abildgaarden-info.dk/forside.asp",
+    "MA":"07:00-17:15",
+    "TI":"07:00-17:15",
+    "ON":"07:00-17:15",
+    "TO":"07:00-17:15",
+    "FR":"07:00-17:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Overgaden Oven Vandet 32B&postnr=1415&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.540716,55.708449 ]
+    },
+    "properties": {
+    "NAVN":"Solstrålen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tagensvej 186",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tagensvej 186&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.603641,55.658703 ]
+    },
+    "properties": {
+    "NAVN":"Solstrålen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tingvej 23",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tingvej 23&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.553526,55.703735 ]
+    },
+    "properties": {
+    "NAVN":"Stenrosen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Titangade 7",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.titanrosen.dk",
+    "MA":"07:00-16:45",
+    "TI":"07:00-16:45",
+    "ON":"07:00-16:45",
+    "TO":"07:00-16:45",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Titangade 7&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.480365,55.700261 ]
+    },
+    "properties": {
+    "NAVN":"Stoppestedet",
+    "KOMMUNE":"København",
+    "ADRESSE":"Husumvej 40",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bh2.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Husumvej 40&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.595557,55.660220 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Sundholm",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sundholmsvej 38A-C",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"4532641020",
+    "WEB":"www.vuggestuensundholm.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sundholmsvej 38A&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":"Sundholmsvej 38A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.497647,55.701260 ]
+    },
+    "properties": {
+    "NAVN":"Svanen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Brønshøjvej 30",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bh3.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Brønshøjvej 30&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.593221,55.667848 ]
+    },
+    "properties": {
+    "NAVN":"Svanereden",
+    "KOMMUNE":"København",
+    "ADRESSE":"Ved Stadsgraven 11",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.svanereden.dk",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ved Stadsgraven 11&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.552728,55.701914 ]
+    },
+    "properties": {
+    "NAVN":"Titanrosen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Titangade 3",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.titanrosen.dk",
+    "MA":"07:00-16:45",
+    "TI":"07:00-16:45",
+    "ON":"07:00-16:45",
+    "TO":"07:00-16:45",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Titangade 3&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.583976,55.689125 ]
+    },
+    "properties": {
+    "NAVN":"Trekløveren",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rigensgade 21",
+    "POSTNR":"1316",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"4533111596",
+    "WEB":"",
+    "MA":"07:15-17:00",
+    "TI":"07:15-17:00",
+    "ON":"07:15-17:00",
+    "TO":"07:15-17:00",
+    "FR":"07:15-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rigensgade 21&postnr=1316&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.544499,55.703474 ]
+    },
+    "properties": {
+    "NAVN":"Troldebo",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tagensvej 113C",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuentroldebo.dk",
+    "MA":"06:45-16:30",
+    "TI":"06:45-16:30",
+    "ON":"06:45-16:30",
+    "TO":"06:45-16:30",
+    "FR":"06:45-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tagensvej 113C&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.623976,55.654141 ]
+    },
+    "properties": {
+    "NAVN":"Tvebacken",
+    "KOMMUNE":"København",
+    "ADRESSE":"Backersvej 107",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Backersvej 107&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.622178,55.655146 ]
+    },
+    "properties": {
+    "NAVN":"Urtepotten",
+    "KOMMUNE":"København",
+    "ADRESSE":"Backersvej 70",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32555351",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Backersvej 70&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.506396,55.661713 ]
+    },
+    "properties": {
+    "NAVN":"Valby Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Eschrichtsvej 7",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.minvalbyvuggestue.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Eschrichtsvej 7&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.582848,55.700086 ]
+    },
+    "properties": {
+    "NAVN":"Villa Rose",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rosenvængets Sideallé 6",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe7.kk.dk",
+    "MA":"06:15-18:00",
+    "TI":"06:15-18:00",
+    "ON":"06:15-18:00",
+    "TO":"06:15-18:00",
+    "FR":"06:15-18:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE 7",
+    "ANDET":"Udviddet åbningstid",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rosenvængets Sideallé 6&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.581783,55.704422 ]
+    },
+    "properties": {
+    "NAVN":"Vokseværket",
+    "KOMMUNE":"København",
+    "ADRESSE":"Krausesvej 4",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe9.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE 9",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Krausesvej 4&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.580975,55.713360 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Carl Nielsen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Carl Nielsens Allé 25",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.carlnielsensvuggestue.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"OE1",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Carl Nielsens Allé 25&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.554893,55.697243 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Guldberg",
+    "KOMMUNE":"København",
+    "ADRESSE":"Arresøgade 20",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"35397586",
+    "WEB":"www.vuggestuenguldberg.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Arresøgade 20&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.479537,55.712709 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Juvelen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Arildsgård 9",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuenjuvelen.dk",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Arildsgård 9&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.487250,55.655688 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Kastaniehuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vigerslev Allé 175",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vigerslev Allé 175&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.606799,55.665499 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Kastanjen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Holmbladsgade 33",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.a2.kk.dk/Kastanien",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"A2",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Holmbladsgade 33&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.524942,55.658945 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Kongehuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sjælør Boulevard 153",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"vuggestuenkongehuset.dk",
+    "MA":"06:00-18:00",
+    "TI":"06:00-18:00",
+    "ON":"06:00-18:00",
+    "TO":"06:00-18:00",
+    "FR":"06:00-18:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Udvidet åbningstid",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sjælør Boulevard 153&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.513372,55.667187 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Mosestykket",
+    "KOMMUNE":"København",
+    "ADRESSE":"Mosestykket 5",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"36308541",
+    "WEB":"www.mosestykket.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Mosestykket 5&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496695,55.711403 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Rugvej",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rugvej 12",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.bh3.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rugvej 12&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.534673,55.656493 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Sjællandshuse",
+    "KOMMUNE":"København",
+    "ADRESSE":"Natalie Zahles Vej 23",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Natalie Zahles Vej 23&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.532235,55.662966 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Solbakken",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rektorparken 22. 11.",
+    "POSTNR":"2450",
+    "POSTDISTRIKT":"København SV",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.solbakkens.dk/",
+    "MA":"07:15-17:00",
+    "TI":"07:15-17:00",
+    "ON":"07:15-17:00",
+    "TO":"07:15-17:00",
+    "FR":"07:15-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rektorparken 22. 11.&postnr=2450&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.595557,55.660220 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Sundholm",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sundholmsvej 38A",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuensundholm.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sundholmsvej 38A&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.574704,55.688716 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Ved Botanisk Have",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sølvgade 83",
+    "POSTNR":"1307",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"33150804",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sølvgade 83&postnr=1307&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.561702,55.704736 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen ved Egmontkollegiet",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Allé 75",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vugegmont.dk",
+    "MA":"07:15-17:00",
+    "TI":"07:15-17:00",
+    "ON":"07:15-17:00",
+    "TO":"07:15-17:00",
+    "FR":"7:15-16:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Allé 75&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.559106,55.670406 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Viktoria",
+    "KOMMUNE":"København",
+    "ADRESSE":"Viktoriagade 26",
+    "POSTNR":"1655",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"VE1",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Viktoriagade 26&postnr=1655&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.485682,55.679693 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Vinkelager",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vinkelager 36",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vinkelager 36&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.594918,55.658436 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuerne Hørgården",
+    "KOMMUNE":"København",
+    "ADRESSE":"Amagerfælledvej 99",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.a12.kk.dk/da/Vuggestuerne-Hoergaarden",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"A12",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Amagerfælledvej 99&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.543007,55.717044 ]
+    },
+    "properties": {
+    "NAVN":"Væksthuset",
+    "KOMMUNE":"København",
+    "ADRESSE":"Tuborgvej 233",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"06:00-17:00",
+    "TI":"06:00-17:00",
+    "ON":"06:00-17:00",
+    "TO":"06:00-17:00",
+    "FR":"06:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Udviddet åbningstid/weekend åbent",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tuborgvej 233&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.582858,55.708319 ]
+    },
+    "properties": {
+    "NAVN":"Æblehaven",
+    "KOMMUNE":"København",
+    "ADRESSE":"Svendborggade 1",
+    "POSTNR":"2100",
+    "POSTDISTRIKT":"København Ø",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.oe8.kk.dk",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Svendborggade 1&postnr=2100&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.600691,55.662383 ]
+    },
+    "properties": {
+    "NAVN":"Børneøen Bonsai",
+    "KOMMUNE":"København",
+    "ADRESSE":"Røsågade 2, st.",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32541920",
+    "WEB":"rs-bonsai.dk/om-vuggestuen-charlottenlund/",
+    "MA":"06:30-16:00",
+    "TI":"06:30-16:00",
+    "ON":"06:30-16:00",
+    "TO":"06:30-16:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Steiner",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Røsågade 2, st.&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.608377,55.656729 ]
+    },
+    "properties": {
+    "NAVN":"Småbørnsgruppen Risle ",
+    "KOMMUNE":"København",
+    "ADRESSE":"Sigbrits Allé 13",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"26799212",
+    "WEB":"www.risle.dk",
+    "MA":"08:00-15:00",
+    "TI":"08:00-15:00",
+    "ON":"08:00-15:00",
+    "TO":"08:00-15:00",
+    "FR":"08:00-15:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning/Steiner",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sigbrits Allé 13&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.545909,55.668716 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Lønneberg ",
+    "KOMMUNE":"København",
+    "ADRESSE":"Haderslevgade 5",
+    "POSTNR":"1671",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"",
+    "WEB":"www.vuggestuen-lb.dk/forside.asp",
+    "MA":"07:00-16:30",
+    "TI":"07:00-16:30",
+    "ON":"07:00-16:30",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Haderslevgade 5&postnr=1671&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.079189,55.838411 ]
+    },
+    "properties": {
+    "NAVN":"Børnehuset Troldehøjen",
+    "KOMMUNE":"Frederikssund ",
+    "ADRESSE":"Ventevej 54",
+    "POSTNR":"3600",
+    "POSTDISTRIKT":"Frederikssund",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"47352299",
+    "WEB":"www.troldhoj.frederikssund.dk/content/dk/daginstitutioner/bornehuset_troldhoj/praktiske_oplysninger/vuggestuen",
+    "MA":"06:30-17:12",
+    "TI":"06:30-17:12",
+    "ON":"06:30-17:12",
+    "TO":"06:30-17:12",
+    "FR":"06:30-16:35",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Børnehuse i Frederikssund Centrum",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ventevej 54&postnr=3600&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.370644,55.815105 ]
+    },
+    "properties": {
+    "NAVN":"Nordvænget",
+    "KOMMUNE":"Furesø",
+    "ADRESSE":"Ryttergårdsvej 48",
+    "POSTNR":"3520",
+    "POSTDISTRIKT":"Farum",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72358400",
+    "WEB":"www.nordvaenget.furesoe.dk/web/?iid=567#/0",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ryttergårdsvej 48&postnr=3520&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571922,55.759761 ]
+    },
+    "properties": {
+    "NAVN":"Adelaide Vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Morescosvej 11",
+    "POSTNR":"2920",
+    "POSTDISTRIKT":"Charlottenlund",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39637136",
+    "WEB":"adelaidevg.gentofte.dk/da",
+    "MA":"07:15-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Morescosvej 11&postnr=2920&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.569335,55.744694 ]
+    },
+    "properties": {
+    "NAVN":"Bregnehøj Vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Bregnegårdsvej 28A",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39610473",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/796",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bregnegårdsvej 28A&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.549158,55.738544 ]
+    },
+    "properties": {
+    "NAVN":"Gentofte Hospitals vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Niels Andersens Vej 67",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39654363",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/795",
+    "MA":"06:30-16:30",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Niels Andersens Vej 67&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.569870,55.733457 ]
+    },
+    "properties": {
+    "NAVN":"Hellerup Vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Sofievej 26",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39620930",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/808",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sofievej 26&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.568763,55.744441 ]
+    },
+    "properties": {
+    "NAVN":"Maglehøj",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Bregnegårdsvej 28B",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39610574",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/818",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-15:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bregnegårdsvej 28B&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.593534,55.760170 ]
+    },
+    "properties": {
+    "NAVN":"Skovshoved Vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Korsgårdsvej 9",
+    "POSTNR":"2920",
+    "POSTDISTRIKT":"Charlottenlund",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39640064",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/404",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-15:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Korsgårdsvej 9&postnr=2920&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.516480,55.753207 ]
+    },
+    "properties": {
+    "NAVN":"Stolpegårds Vuggestue",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Stolpegårdsvej 20",
+    "POSTNR":"2820",
+    "POSTDISTRIKT":"Gentofte",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39681838",
+    "WEB":"stolpegaardsvg.gentofte.dk/da",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Stolpegårdsvej 20&postnr=2820&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.517423,55.752499 ]
+    },
+    "properties": {
+    "NAVN":"Vangede Børnehus - Vuggestuen",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Stolpegårdsvej 12",
+    "POSTNR":"2820",
+    "POSTDISTRIKT":"Gentofte",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39640202",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/826",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Trekløveren",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Stolpegårdsvej 12&postnr=2820&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.567853,55.749133 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Elmegården",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"L. E. Bruuns Vej 1A",
+    "POSTNR":"2920",
+    "POSTDISTRIKT":"Charlottenlund",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39639865",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/803",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=L. E. Bruuns Vej 1A&postnr=2920&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.530984,55.742832 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Fuglegården",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Fuglegårdsvej 11A",
+    "POSTNR":"2820",
+    "POSTDISTRIKT":"Gentofte",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39651693",
+    "WEB":"www.fuglegaarden.dk",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Fuglegårdsvej 11A&postnr=2820&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.563023,55.740761 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Højgården",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Tranegårdsvej 33",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39628310",
+    "WEB":"hoejgaardensvg.gentofte.dk/da",
+    "MA":"07:30-17:00",
+    "TI":"07:30-17:00",
+    "ON":"07:30-17:00",
+    "TO":"07:30-17:00",
+    "FR":"07:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tranegårdsvej 33&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.556875,55.724072 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Mariehønen",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Lundeskovsvej 9",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39625198",
+    "WEB":"mariehoenen.gentofte.dk/da",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gentofte Frie Børnevenner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lundeskovsvej 9&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.544420,55.740604 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Spiren",
+    "KOMMUNE":"Gentofte",
+    "ADRESSE":"Ledreborg Allé 36",
+    "POSTNR":"2820",
+    "POSTDISTRIKT":"Gentofte",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39658381",
+    "WEB":"www.gentofte.dk/da/Borger/Familie_og_Boern/Dagtilbud-til-de-yngste/Find-daginstitution/822",
+    "MA":"06:30-18:00",
+    "TI":"06:30-18:00",
+    "ON":"06:30-18:00",
+    "TO":"06:30-18:00",
+    "FR":"06:30-18:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ledreborg Allé 36&postnr=2820&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.47088211,55.74415285 ]
+    },
+    "properties": {
+    "NAVN":"Bytoften",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Klausdalsbrovej 193",
+    "POSTNR":"2860",
+    "POSTDISTRIKT":"Søborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39561157",
+    "WEB":"www.gladsaxe.dk/bytoften/boernehuset_bytoften",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gladsaxe",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Klausdalsbrovej 193&postnr=2860&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51474378,55.73902434 ]
+    },
+    "properties": {
+    "NAVN":"Elverdammen, vuggestue",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Zolas Alle 11",
+    "POSTNR":"2860",
+    "POSTDISTRIKT":"Søborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39696142",
+    "WEB":"www.gladsaxe.dk/elverdammen/boernehuset_elverdammen",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Søborg",
+    "ANDET":"Sprog",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Zolas Alle 11&postnr=2860&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45964167,55.75673095 ]
+    },
+    "properties": {
+    "NAVN":"Larven",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Ibsvej 3",
+    "POSTNR":"2880",
+    "POSTDISTRIKT":"Bagsværd",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"44982703",
+    "WEB":"www.gladsaxe.dk/larven/boernehuset_larven",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Bagsværd",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ibsvej 3&postnr=2880&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.44848989,55.73853903 ]
+    },
+    "properties": {
+    "NAVN":"Myretuen",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Kagsåkollegiet 212",
+    "POSTNR":"2860",
+    "POSTDISTRIKT":"Søborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"44911371",
+    "WEB":"www.gladsaxe.dk/myretuen/daginstitutionen_myretuen",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gladsaxe",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kagsåkollegiet 212&postnr=2860&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51867826,55.72834168 ]
+    },
+    "properties": {
+    "NAVN":"Saxen",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Gladsaxevej 29",
+    "POSTNR":"2860",
+    "POSTDISTRIKT":"Søborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"39660928",
+    "WEB":"www.gladsaxe.dk/saxen/boernehuset_saxen",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Grønnemose",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gladsaxevej 29&postnr=2860&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.404585,55.681287 ]
+    },
+    "properties": {
+    "NAVN":"Bøgen",
+    "KOMMUNE":"Glostrup ",
+    "ADRESSE":"Stenager 191",
+    "POSTNR":"2600",
+    "POSTDISTRIKT":"Glostrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"43457821",
+    "WEB":"https://glostrup.inst.dk/Foresides/IntraForeside.aspx?Location=IP.3&PublicMenuNodeId=17",
+    "MA":"07:00-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Skovager",
+    "ANDET":"Natur",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Stenager 191&postnr=2600&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.192245,56.024342 ]
+    },
+    "properties": {
+    "NAVN":"Boager",
+    "KOMMUNE":"Gribskov ",
+    "ADRESSE":"Boagervej 16A",
+    "POSTNR":"3200",
+    "POSTDISTRIKT":"Helsinge",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72499030",
+    "WEB":"https://gribskov.inst.dk/Foresides/IntraForeside.aspx?Location=IP.6&PublicMenuNodeId=17",
+    "MA":"06:00-18:00",
+    "TI":"06:00-18:00",
+    "ON":"06:00-18:00",
+    "TO":"06:00-18:00",
+    "FR":"06:00-18:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Helsinge Børnehuse",
+    "ANDET":"Udvidet åbningstid",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Boagervej 16A&postnr=3200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.306929,56.118006 ]
+    },
+    "properties": {
+    "NAVN":"Birkevang 210, ",
+    "KOMMUNE":"Gribskov ",
+    "ADRESSE":"Birkevang 210",
+    "POSTNR":"3250",
+    "POSTDISTRIKT":"Gilleleje",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"48302696",
+    "WEB":"https://gribskov.inst.dk/Foresides/IntraForeside.aspx?Location=IP.5&t=area",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Gilbjerg Børnehuse",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Birkevang 210&postnr=3250&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.289202,56.067948 ]
+    },
+    "properties": {
+    "NAVN":"Ramsager",
+    "KOMMUNE":"Gribskov ",
+    "ADRESSE":"Ramsager 33",
+    "POSTNR":"3230",
+    "POSTDISTRIKT":"Græsted",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"48393225",
+    "WEB":"https://gribskov.inst.dk/Foresides/IntraForeside.aspx?Location=IP.D",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ramsager 33&postnr=3230&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.377716,56.049975 ]
+    },
+    "properties": {
+    "NAVN":"Skovkanten",
+    "KOMMUNE":"Gribskov ",
+    "ADRESSE":"Esrum Hovedgade 21b",
+    "POSTNR":"3230",
+    "POSTDISTRIKT":"Græsted",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72499040",
+    "WEB":"https://gribskov.inst.dk/Foresides/IntraForeside.aspx?Location=IP.22&PublicMenuNodeId=17",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Esrum Hovedgade 21b&postnr=3230&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6039002,56.03212325 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Kringlen",
+    "KOMMUNE":"Helsingør",
+    "ADRESSE":"Gl Banegårdsvej 27",
+    "POSTNR":"3000",
+    "POSTDISTRIKT":"Helsingør",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"4928 1127",
+    "WEB":"kringlen.helsingorkommune.dk/FrontEnd.aspx?id=66901",
+    "MA":"06:00-17:00",
+    "TI":"06:00-17:00",
+    "ON":"06:00-17:00",
+    "TO":"06:00-17:00",
+    "FR":"06:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"sin08@helsingor.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gl Banegårdsvej 27&postnr=3000&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51346232,55.99943567 ]
+    },
+    "properties": {
+    "NAVN":"Børnehuset Nyrup-vuggestuen",
+    "KOMMUNE":"Helsingør",
+    "ADRESSE":"Kongevejen 280",
+    "POSTNR":"3490",
+    "POSTDISTRIKT":"Kvistgård",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"4928 1206",
+    "WEB":"bornehavennyrup.helsingorkommune.dk/FrontEnd.aspx?id=59856",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Kulturinstitution",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kongevejen 280&postnr=3490&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.58878061,56.04026027 ]
+    },
+    "properties": {
+    "NAVN":"Englebassen",
+    "KOMMUNE":"Helsingør",
+    "ADRESSE":"Esrumvej 67",
+    "POSTNR":"3000",
+    "POSTDISTRIKT":"Helsingør",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"61336242",
+    "WEB":"www.engle-bassen.dk/_.html",
+    "MA":"07:00-16:30",
+    "TI":"07:00-16:30",
+    "ON":"07:00-16:30",
+    "TO":"07:00-16:30",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Privat venteliste",
+    "EMAIL":"englebassen@live.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Esrumvej 67&postnr=3000&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.262977,55.937740 ]
+    },
+    "properties": {
+    "NAVN":"Georgs Vugge  ",
+    "KOMMUNE":"Hillerød",
+    "ADRESSE":"Ålholmparken 2",
+    "POSTNR":"3400",
+    "POSTDISTRIKT":"Hillerød",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72324680",
+    "WEB":"georgsvugge.hillerod.dk/FrontEnd.aspx?id=219406",
+    "MA":"06:30-16:45",
+    "TI":"06:30-16:45",
+    "ON":"06:30-16:45",
+    "TO":"06:30-16:45",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ålholmparken 2&postnr=3400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.310332,55.930271 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Margrethevej",
+    "KOMMUNE":"Hillerød",
+    "ADRESSE":"Margrethevej 26",
+    "POSTNR":"3400",
+    "POSTDISTRIKT":"Hillerød",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"48260364",
+    "WEB":"vuggestuenmargrethevej.hillerod.dk/FrontEnd.aspx?id=224744",
+    "MA":"06:45-17:00",
+    "TI":"06:45-17:00",
+    "ON":"06:45-17:00",
+    "TO":"06:45-17:00",
+    "FR":"06:45-16:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Danske Daginstitutioner",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Margrethevej 26&postnr=3400&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45795337,55.62308974 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Manegen",
+    "KOMMUNE":"Hvidovre",
+    "ADRESSE":"Byvej 248 A+B",
+    "POSTNR":"2650",
+    "POSTDISTRIKT":"Hvidovre",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"72206640",
+    "WEB":"www.manegen.hvidovre.dk/velkommen-til-institutionen.aspx",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"manegen@hvidovre.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Byvej 248A&postnr=2650&format=csv",
+    "ADRESSE-KORREKTION":"Byvej 248A"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.31407472,55.64237698 ]
+    },
+    "properties": {
+    "NAVN":"Firkanten",
+    "KOMMUNE":"Høje-Taastrup",
+    "ADRESSE":"Firkanten I 1",
+    "POSTNR":"2630",
+    "POSTDISTRIKT":"Taastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"4335 3050",
+    "WEB":"www.omraade1.htk.dk/Firkanten.aspx",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Område 1",
+    "ANDET":"",
+    "EMAIL":"Firkanten@htk.dk ",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Firkanten I 1&postnr=2630&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1838837,55.66088709 ]
+    },
+    "properties": {
+    "NAVN":"Refmosegård Vuggestue",
+    "KOMMUNE":"Høje-Taastrup",
+    "ADRESSE":"Møllevej 10",
+    "POSTNR":"2640",
+    "POSTDISTRIKT":"Hedehusene",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"43 35 31 00",
+    "WEB":"www.vuggestuenrefmosegaard.htk.dk",
+    "MA":"06:25-17:00",
+    "TI":"06:25-17:00",
+    "ON":"06:25-17:00",
+    "TO":"06:25-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Frie Børnehaver og Fritidshjem",
+    "ANDET":"",
+    "EMAIL":"refmosegaard_vuggestue@htk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Møllevej 10&postnr=2640&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.28908924,55.64203586 ]
+    },
+    "properties": {
+    "NAVN":"Sct. Georggårdens Vuggestue",
+    "KOMMUNE":"Høje-Taastrup",
+    "ADRESSE":"Lindehaven 5",
+    "POSTNR":"2630",
+    "POSTDISTRIKT":"Taastrup",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"43 35 31 10",
+    "WEB":"www.selvejeromraadetdiamanten.dk/default.aspx?id=m6s0",
+    "MA":"06:25-16:45 ",
+    "TI":"06:25-16:45 ",
+    "ON":"06:25-16:45 ",
+    "TO":"06:25-16:45 ",
+    "FR":"06:25-16:40",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Selvejerområde Diamanten",
+    "ANDET":"",
+    "EMAIL":"Georgsgaardens_vuggestue@htk.dk ",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lindehaven 5&postnr=2630&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1838837,55.66088709 ]
+    },
+    "properties": {
+    "NAVN":"Refsmosegård Børnehus",
+    "KOMMUNE":"Høje-Taastrup",
+    "ADRESSE":"Møllevej 10",
+    "POSTNR":"2640",
+    "POSTDISTRIKT":"Hedehusene",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"43 35 31 00",
+    "WEB":"www.vuggestuenrefmosegaard.htk.dk",
+    "MA":"06:25-17:00 ",
+    "TI":"06:25-17:00 ",
+    "ON":"06:25-17:00 ",
+    "TO":"06:25-17:00 ",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Område 5",
+    "ANDET":"",
+    "EMAIL":"Refmosegaard_vuggestue@htk.dk ",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Møllevej 10&postnr=2640&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.50025846,55.881056 ]
+    },
+    "properties": {
+    "NAVN":"Hørsholm Børnegård",
+    "KOMMUNE":"Hørsholm",
+    "ADRESSE":"Gasværksvej 1",
+    "POSTNR":"2970",
+    "POSTDISTRIKT":"Hørsholm",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45868386",
+    "WEB":"www.boernegaard.horsholm.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"boernegaard@horsholm.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gasværksvej 1&postnr=2970&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.49043572,55.88775274 ]
+    },
+    "properties": {
+    "NAVN":"Usserød Vuggestue",
+    "KOMMUNE":"Hørsholm",
+    "ADRESSE":"Ahornvej 50A",
+    "POSTNR":"2970",
+    "POSTDISTRIKT":"Hørsholm",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Vuggestue",
+    "TELEFON":"40450191",
+    "WEB":"www.usseroedvuggestue.dk/",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"kontakt@usseroedvuggestue.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ahornvej 50A&postnr=2970&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4994906,55.77109496 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Firkløveren",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Sorgenfrivej 2",
+    "POSTNR":"2800",
+    "POSTDISTRIKT":"Kongens Lyngby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45285500",
+    "WEB":"www.firkloeveren.ltk.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"firkloeveren@ltk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Sorgenfrivej 2&postnr=2800&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.49657136,55.76962738 ]
+    },
+    "properties": {
+    "NAVN":"Andedammen",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Vinkelvej 10A",
+    "POSTNR":"2800",
+    "POSTDISTRIKT":"Kongens Lyngby",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45285530",
+    "WEB":"www.andedammen.ltk.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Børnehuset Papillon",
+    "ANDET":"",
+    "EMAIL":"andedammen@ltk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vinkelvej 10A&postnr=2800&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45406241,55.79870675 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Villa Furesø",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Kollemosevej 50",
+    "POSTNR":"2830",
+    "POSTDISTRIKT":"Virum",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45285950",
+    "WEB":"www.villafuresoe.ltk.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"villafuresoe@ltk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kollemosevej 50&postnr=2830&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.49966004,55.80100866 ]
+    },
+    "properties": {
+    "NAVN":"Mølleåen",
+    "KOMMUNE":"Rudersdal",
+    "ADRESSE":"Teknikerbyen 44",
+    "POSTNR":"2830",
+    "POSTDISTRIKT":"Virum",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45480066",
+    "WEB":"www.moelleaaen.rudersdal.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Områdeinstitution Skovkanten",
+    "ANDET":"",
+    "EMAIL":"molleaen@rudersdal.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Teknikerbyen 44&postnr=2830&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5288876,55.84624417 ]
+    },
+    "properties": {
+    "NAVN":"Kohavehuset, Grønærten",
+    "KOMMUNE":"Rudersdal",
+    "ADRESSE":"Trørød Kollegiet 21",
+    "POSTNR":"2950",
+    "POSTDISTRIKT":"Vedbæk",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45891115",
+    "WEB":"www.kohavehuset.rudersdal.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"Områdeinstitution Bøllemosen",
+    "ANDET":"",
+    "EMAIL":"kohavehuset@rudersdal.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Trørød Kollegiet 21&postnr=2950&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51110235,55.80933388 ]
+    },
+    "properties": {
+    "NAVN":"Sct. Georgs Gårdens Vuggestue",
+    "KOMMUNE":"Rudersdal",
+    "ADRESSE":"Vangeboled 1",
+    "POSTNR":"2840",
+    "POSTDISTRIKT":"Holte",
+    "ETABLERINGSFORM":"Selveje",
+    "TYPE":"Vuggestue",
+    "TELEFON":"45805041",
+    "WEB":"www.sctgeorg.rudersdal.dk/",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"sctgeorg@rudersdal.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vangeboled 1&postnr=2840&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45201406,55.67306799 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Bybjerget",
+    "KOMMUNE":"Rødovre",
+    "ADRESSE":"Valhøjs alle 103",
+    "POSTNR":"2610",
+    "POSTDISTRIKT":"Rødovre",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"36411819",
+    "WEB":"https://rk.inst.dk/Foresides/IntraForeside.aspx?Location=IP.D",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"rk@rk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Valhøjs alle 103&postnr=2610&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45164056,55.6822942 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Carlsro",
+    "KOMMUNE":"Rødovre",
+    "ADRESSE":"Tårnvej 245, 1.",
+    "POSTNR":"2610",
+    "POSTDISTRIKT":"Rødovre",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"36705733",
+    "WEB":"https://rk.inst.dk/Foresides/IntraForeside.aspx?Location=IP.2",
+    "MA":"06:00-17:00",
+    "TI":"06:00-17:00",
+    "ON":"06:00-17:00",
+    "TO":"06:00-17:00",
+    "FR":"06:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"rk@rk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tårnvej 245, 1.&postnr=2610&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.44322289,55.70251988 ]
+    },
+    "properties": {
+    "NAVN":"Vuggestuen Sommerfuglen",
+    "KOMMUNE":"Rødovre",
+    "ADRESSE":"Resenbrovej 18",
+    "POSTNR":"2610",
+    "POSTDISTRIKT":"Rødovre",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"44530031",
+    "WEB":"https://rk.inst.dk/Foresides/IntraForeside.aspx?Location=IP.C",
+    "MA":"07:00-17:00",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"rk@rk.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Resenbrovej 18&postnr=2610&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.58496983,55.60400123 ]
+    },
+    "properties": {
+    "NAVN":"Angolavej 15",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Angolavej 15",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"30760467",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-angolavej-15",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Angolavej 15&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.61686405,55.63892497 ]
+    },
+    "properties": {
+    "NAVN":"Corneliusmindevej 4",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Corneliusmindevej 4",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32525151",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-corneliusmindevej-4",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Corneliusmindevej 4&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.64352091,55.63789747 ]
+    },
+    "properties": {
+    "NAVN":"Gl. Skovvej 10",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Gl. Skovvej 10",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"40148995",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-gl-skovvej-10",
+    "MA":"06:15-17:00",
+    "TI":"06:15-17:00",
+    "ON":"06:15-17:00",
+    "TO":"06:15-17:00",
+    "FR":"06:15-15:45",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gl. Skovvej 10 &postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.63239237,55.64184309 ]
+    },
+    "properties": {
+    "NAVN":"Kastrupvej 235",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Kastrupvej 235",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32513835",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-kastrupvej-235",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kastrupvej 235&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.62957514,55.63714019 ]
+    },
+    "properties": {
+    "NAVN":"Skottegården 83",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Skottegården 83",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32500388",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-skottegaarden-83",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Skottegården 83&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.61558391,55.63607641 ]
+    },
+    "properties": {
+    "NAVN":"Tårnbyparken",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Tårnbypark Alle 18",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"32507794",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-taarnbyparken",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tårnbypark Alle 18&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.58084247,55.60257059 ]
+    },
+    "properties": {
+    "NAVN":"Ugandavej 147",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Ugandavej 147",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Vuggestue",
+    "TELEFON":"24985885",
+    "WEB":"www.taarnby.dk/borger/familie-boern-og-unge/dagtilbud/vuggestuer/vuggestuen-ugandavej-147",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ugandavej 147&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  }
+]
+}

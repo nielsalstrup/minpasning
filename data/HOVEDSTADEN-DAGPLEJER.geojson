@@ -1,0 +1,1655 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.35101627,55.66622982 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejecentret",
+    "KOMMUNE":"Albertslund ",
+    "ADRESSE":"Damgårdsvej 20",
+    "POSTNR":"2620",
+    "POSTDISTRIKT":"Albertslund",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"43683333",
+    "WEB":"www.dagplejen.albertslund.dk/",
+    "MA":"08:00-15:00",
+    "TI":"08:00-15:00",
+    "ON":"08:00-15:00",
+    "TO":"08:00-85:00",
+    "FR":"08:00-14:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Damgårdsvej 20 &postnr=2620&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.39867123,55.72403354 ]
+    },
+    "properties": {
+    "NAVN":"Økokost-Skovlunde dagpleje",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Annavej 21",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"22275682",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Annavej 21&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.39189673,55.71204782 ]
+    },
+    "properties": {
+    "NAVN":"Connies dagpleje",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Birkeengen 49",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.connies-dagpleje.dk/",
+    "MA":"07:00-16:30",
+    "TI":"07:00-16:30",
+    "ON":"07:00-16:30",
+    "TO":"07:00-16:30",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Birkeengen 49&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.39238246,55.72312242 ]
+    },
+    "properties": {
+    "NAVN":"Guldklumpernes dagpleje",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Ringtoften 95",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.guldklumpernes-dagpleje.dk/",
+    "MA":"07:00-16:15",
+    "TI":"07:00-16:15",
+    "ON":"07:00-16:15",
+    "TO":"07:00-16:15",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ringtoften 95&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38920847,55.71316004 ]
+    },
+    "properties": {
+    "NAVN":"Henriettes dagpleje",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Birkeengen 76",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.henriettes-dagpleje.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Birkeengen 76&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.40763548,55.72544137 ]
+    },
+    "properties": {
+    "NAVN":"Lauras dagpleje",
+    "KOMMUNE":"Ballerup",
+    "ADRESSE":"Jyttevej 40",
+    "POSTNR":"2740",
+    "POSTDISTRIKT":"Skovlunde",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.lauras-dagpleje.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Jyttevej 40&postnr=2740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.13019381,55.07415657 ]
+    },
+    "properties": {
+    "NAVN":"Janes private dagpleje",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Homannevej 9",
+    "POSTNR":"3730",
+    "POSTDISTRIKT":"Nexø",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"40134634",
+    "WEB":"janeandersensprivatedagpleje.dk/",
+    "MA":"06.30-16.15",
+    "TI":"06.30-16.15",
+    "ON":"06.30-16.15",
+    "TO":"06.30-16.15",
+    "FR":"06.30-15.30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Homannevej 9&postnr=3730&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.70949452,55.10279156 ]
+    },
+    "properties": {
+    "NAVN":"Børnenes dagpleje og pladsformidling",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Landemærket 26",
+    "POSTNR":"3700",
+    "POSTDISTRIKT":"Rønne",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Landemærket 26&postnr=3700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.71825635,55.1611941 ]
+    },
+    "properties": {
+    "NAVN":"Bettina Kronborg",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Baggårdsvej 24",
+    "POSTNR":"3790",
+    "POSTDISTRIKT":"Hasle",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"30531419",
+    "WEB":"www.123hjemmeside.dk/bettinas_private_dagpleje",
+    "MA":"07:00-16:00",
+    "TI":"07:00-16:00",
+    "ON":"07:00-16:00",
+    "TO":"07:00-16:00",
+    "FR":"06.30-15.30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Fuld/deltid",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Baggårdsvej 24&postnr=3790&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.80479088,55.16670506 ]
+    },
+    "properties": {
+    "NAVN":"Dorrit Folkmann",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Aagaardsvej 18",
+    "POSTNR":"3782",
+    "POSTDISTRIKT":"Klemensker",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"29650477",
+    "WEB":"www.123hjemmeside.dk/Dorrits_private_dagpleje",
+    "MA":"06:30-16:15",
+    "TI":"06:30-16:15",
+    "ON":"06:30-16:15",
+    "TO":"06:30-16:15",
+    "FR":"06:45-15:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Fuld/deltid",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Aagaardsvej 18&postnr=3782&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.13019381,55.07415657 ]
+    },
+    "properties": {
+    "NAVN":"Jane Pihl Andersen",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Homannevej 9",
+    "POSTNR":"3730",
+    "POSTDISTRIKT":"Nexø",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"40134634",
+    "WEB":"janeandersensprivatedagpleje.dk",
+    "MA":"06.30-16.15",
+    "TI":"06.30-16.15",
+    "ON":"06.30-16.15",
+    "TO":"06.30-16.15",
+    "FR":"06.30-15.30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Homannevej 9&postnr=3730&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1439396,55.11909718 ]
+    },
+    "properties": {
+    "NAVN":"Lene Bech Hansen",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Årsdalevej 67",
+    "POSTNR":"3740",
+    "POSTDISTRIKT":"Svaneke",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"56482015",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Årsdalevej 67&postnr=3740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.13219194,55.14036192 ]
+    },
+    "properties": {
+    "NAVN":"Marian Fjellerad",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Dyrlæge Jürgensensgade 23",
+    "POSTNR":"3740",
+    "POSTDISTRIKT":"Svaneke",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"50903476",
+    "WEB":"www.privatdagpleje-svaneke.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Dyrlæge Jürgensensgade 23&postnr=3740&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.87746672,55.08950506 ]
+    },
+    "properties": {
+    "NAVN":"Anette Mattsson",
+    "KOMMUNE":"Bornholm",
+    "ADRESSE":"Vestermarievej 83",
+    "POSTNR":"3720",
+    "POSTDISTRIKT":"Aakirkeby",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"22874781",
+    "WEB":"www.123hjemmeside.dk/anette",
+    "MA":"06:30-16:00",
+    "TI":"06:30-16:00",
+    "ON":"06:30-16:00",
+    "TO":"06:30-16:00",
+    "FR":"06:30-15:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vestermarievej 83&postnr=3720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.529890,55.677646 ]
+    },
+    "properties": {
+    "NAVN":"Frederiksberg Dagpleje",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Storm Petersens Vej 4, 1.",
+    "POSTNR":"2000",
+    "POSTDISTRIKT":"Frederiksberg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.frb-folkeboernehave.dk/sa_grundoplysninger.asp",
+    "MA":"07:00-16:30",
+    "TI":"07:00-17:00",
+    "ON":"07:00-17:00",
+    "TO":"07:00-17:00",
+    "FR":"07:00-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Storm Petersens Vej 4, 1.&postnr=2000&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571059,55.683305 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Amager",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Voldgade 15, 2. th",
+    "POSTNR":"1358",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Voldgade 15&postnr=1358&format=csv",
+    "ADRESSE-KORREKTION":"Nørre Voldgade 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.487431,55.681919 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Bispebjerg",
+    "KOMMUNE":"København",
+    "ADRESSE":"Linde Allé 40-44, 1. sal",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.kk.dk/dagplejen",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Linde Allé 40&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":"Linde Allé 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.487431,55.681919 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Brønshøj-Vanløse",
+    "KOMMUNE":"København",
+    "ADRESSE":"Linde Allé 40-44, 1. sal",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.kk.dk/dagplejen",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Linde Allé 40&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":"Linde Allé 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571059,55.683305 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Indre By",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Voldgade 15, 2. th",
+    "POSTNR":"1358",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Voldgade 15&postnr=1358&format=csv",
+    "ADRESSE-KORREKTION":"Nørre Voldgade 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.572516,55.674927 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Nørrebro",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vester Voldgade 87, 3.",
+    "POSTNR":"1552",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.kk.dk/dagplejen",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vester Voldgade 87, 3.&postnr=1552&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571059,55.683305 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Valby",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Voldgade 15, 2. th",
+    "POSTNR":"1358",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Voldgade 15&postnr=1358&format=csv",
+    "ADRESSE-KORREKTION":"Nørre Voldgade 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.571059,55.683305 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Vesterbro",
+    "KOMMUNE":"København",
+    "ADRESSE":"Nørre Voldgade 15, 2. th",
+    "POSTNR":"1358",
+    "POSTDISTRIKT":"København K",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Nørre Voldgade 15&postnr=1358&format=csv",
+    "ADRESSE-KORREKTION":"Nørre Voldgade 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.572516,55.674927 ]
+    },
+    "properties": {
+    "NAVN":"Dagpleje Østerbro",
+    "KOMMUNE":"København",
+    "ADRESSE":"Vester Voldgade 87, 3.",
+    "POSTNR":"1552",
+    "POSTDISTRIKT":"København V",
+    "ETABLERINGSFORM":"",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"www.kk.dk/dagplejen",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Vester Voldgade 87, 3.&postnr=1552&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.474524,55.699936 ]
+    },
+    "properties": {
+    "NAVN":"Dorte Diop",
+    "KOMMUNE":"København",
+    "ADRESSE":"Faksingevej 13",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"38792335",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Småbørnsgruppe",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Faksingevej 13&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.486050,55.703785 ]
+    },
+    "properties": {
+    "NAVN":"Merete Evensen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Knabstrupvej 49",
+    "POSTNR":"2700",
+    "POSTDISTRIKT":"Brønshøj",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"20491718",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Småbørnsgruppe",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Knabstrupvej 49&postnr=2700&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.536659,55.680619 ]
+    },
+    "properties": {
+    "NAVN":"Bamse og Dukkelise v/Ida Steincke Sørensen",
+    "KOMMUNE":"Frederiksberg",
+    "ADRESSE":"Rathsacksvej 30",
+    "POSTNR":"1862",
+    "POSTDISTRIKT":"Frederiksberg C",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"28681764",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Småbørnsgruppe",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rathsacksvej 30&postnr=1862&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.539118,55.692427 ]
+    },
+    "properties": {
+    "NAVN":"Mother Goose Nusery",
+    "KOMMUNE":"København",
+    "ADRESSE":"Humlebækgade 49 st.th.",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"38889052/50905982",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Småbørnsgruppe",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Humlebækgade 49 st.th.&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.548057,55.686977 ]
+    },
+    "properties": {
+    "NAVN":"Den Musikalske Vuggestue",
+    "KOMMUNE":"København",
+    "ADRESSE":"Rantzausgade 37D",
+    "POSTNR":"2200",
+    "POSTDISTRIKT":"København N",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"26294090",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Småbørnsgruppe",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rantzausgade 37D&postnr=2200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.570989,55.732287 ]
+    },
+    "properties": {
+    "NAVN":"Copenhagen International School",
+    "KOMMUNE":"København",
+    "ADRESSE":"Hellerupvej 22-26",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"39463300",
+    "WEB":"www.cis-edu.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Hellerupvej 22&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":"Hellerupvej 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.520397,55.665650 ]
+    },
+    "properties": {
+    "NAVN":"Nordstjernen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Gl. Jernbanevej 13",
+    "POSTNR":"2500",
+    "POSTDISTRIKT":"Valby",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"36170346",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gl. Jernbanevej 13&postnr=2500&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.635294,55.648600 ]
+    },
+    "properties": {
+    "NAVN":"Soria Moria",
+    "KOMMUNE":"København",
+    "ADRESSE":"Engvej 139",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København S",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Engvej 139&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.558584,55.755068 ]
+    },
+    "properties": {
+    "NAVN":"Stepping Stones",
+    "KOMMUNE":"København",
+    "ADRESSE":"Bernstorffsvej 230",
+    "POSTNR":"2920",
+    "POSTDISTRIKT":"Charlottenlund",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"35123330",
+    "WEB":"www.steppingstones.dk",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Bernstorffsvej 230&postnr=2920&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.570175,55.725848 ]
+    },
+    "properties": {
+    "NAVN":"Sunrise Preschool",
+    "KOMMUNE":"København",
+    "ADRESSE":"Norgesmindevej 32",
+    "POSTNR":"2900",
+    "POSTDISTRIKT":"Hellerup",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"35432317",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Norgesmindevej 32&postnr=2900&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.523518,55.705379 ]
+    },
+    "properties": {
+    "NAVN":"Rødderne",
+    "KOMMUNE":"København",
+    "ADRESSE":"Frederikssundsvej 81F-G",
+    "POSTNR":"2400",
+    "POSTDISTRIKT":"København NV",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"38103033",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"Storordning",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Frederikssundsvej 81F&postnr=2400&format=csv",
+    "ADRESSE-KORREKTION":"Frederikssundsvej 81F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4765931,55.75121822 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen Nord",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Lupinmarken 11",
+    "POSTNR":"2880",
+    "POSTDISTRIKT":"Bagsværd",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"44989796",
+    "WEB":"www.gladsaxe.dk/dagplejennord/dagplejen_nord",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Lupinmarken 11&postnr=2880&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.46245607,55.71906337 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen Syd",
+    "KOMMUNE":"Gladsaxe ",
+    "ADRESSE":"Pilegårdsvej 70",
+    "POSTNR":"2860",
+    "POSTDISTRIKT":"Søborg",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"44531361",
+    "WEB":"www.gladsaxe.dk/dagplejensyd/dagplejen_syd",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Pilegårdsvej 70&postnr=2860&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.394783,55.665159 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen",
+    "KOMMUNE":"Glostrup ",
+    "ADRESSE":"Rådhusparken 1",
+    "POSTNR":"2600",
+    "POSTDISTRIKT":"Glostrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"43236495",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rådhusparken 1&postnr=2600&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.196831,56.020885 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen",
+    "KOMMUNE":"Gribskov ",
+    "ADRESSE":"Rundinsvej 11",
+    "POSTNR":"3200",
+    "POSTDISTRIKT":"Helsinge",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"72496740",
+    "WEB":"www.gribskov.dk/gribskov/web.nsf/0/56979E1F01CA8164C1257314002457E7?OpenDocument",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-16:30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rundinsvej 11&postnr=3200&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.01612365,55.97657023 ]
+    },
+    "properties": {
+    "NAVN":"Den Kommunale Dagpleje",
+    "KOMMUNE":"Halsnæs ",
+    "ADRESSE":"Rådhuspladsen 1",
+    "POSTNR":"3300",
+    "POSTDISTRIKT":"Frederiksværk",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"47784000",
+    "WEB":"dagplejen.halsnaes.dk",
+    "MA":"06:00-17:00",
+    "TI":"06:00-17:00",
+    "ON":"06:00-17:00",
+    "TO":"06:00-17:00",
+    "FR":"06:00-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Rådhuspladsen 1&postnr=3300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.00659568,55.98266996 ]
+    },
+    "properties": {
+    "NAVN":"Frederiksværk PrivatDagpleje",
+    "KOMMUNE":"Halsnæs ",
+    "ADRESSE":"Baggersvej 21",
+    "POSTNR":"3300",
+    "POSTDISTRIKT":"Frederiksværk",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"60745193",
+    "WEB":"frederiksvaerkprivatdagpleje.dk/velkommen",
+    "MA":"07:00-16:45",
+    "TI":"07:00-16:45",
+    "ON":"07:00-16:45",
+    "TO":"07:00-16:45",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Baggersvej 21&postnr=3300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.07337049,55.92750923 ]
+    },
+    "properties": {
+    "NAVN":"Skildpadden privatdagpleje",
+    "KOMMUNE":"Halsnæs ",
+    "ADRESSE":"Solsikkeparken 15",
+    "POSTNR":"3310",
+    "POSTDISTRIKT":"Ølsted",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"30968712",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Solsikkeparken 15&postnr=3310&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.01834774,55.98036403 ]
+    },
+    "properties": {
+    "NAVN":"lottesprivatdagpleje",
+    "KOMMUNE":"Halsnæs ",
+    "ADRESSE":"Pileengen 3",
+    "POSTNR":"3300",
+    "POSTDISTRIKT":"Frederiksværk",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"20763640",
+    "WEB":"www.lottesprivatdagpleje.dk/118845726",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Pileengen 3&postnr=3300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.18464808,55.66101289 ]
+    },
+    "properties": {
+    "NAVN":"BørnestuenV/Jette Svejgaard",
+    "KOMMUNE":"Høje-Taastrup",
+    "ADRESSE":"Møllevej 25",
+    "POSTNR":"2640",
+    "POSTDISTRIKT":"Hedehusene",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"6015 0434",
+    "WEB":"boernestuen.dk/hvad-er-privat-dagpleje/index.html",
+    "MA":"",
+    "TI":"07:00-16:45",
+    "ON":"07:00-16:45",
+    "TO":"07:00-16:45",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"boernestuen@gmail.com ",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Møllevej 25&postnr=2640&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.50353794,55.89963394 ]
+    },
+    "properties": {
+    "NAVN":"Hørsholm Dagpleje",
+    "KOMMUNE":"Hørsholm",
+    "ADRESSE":"Ådalsparkvej 65",
+    "POSTNR":"2970",
+    "POSTDISTRIKT":"Hørsholm",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"20467876",
+    "WEB":"www.dagplejen.horsholm.dk/",
+    "MA":"07:15-17:00",
+    "TI":"07:15-17:00",
+    "ON":"07:15-17:00",
+    "TO":"07:15-17:00",
+    "FR":"07:15-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"ste@horsholm.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ådalsparkvej 65&postnr=2970&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3481799,55.61532636 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen i Ishøj",
+    "KOMMUNE":"Ishøj",
+    "ADRESSE":"Ovenkæret 12-16",
+    "POSTNR":"2635",
+    "POSTDISTRIKT":"Ishøj",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"43736962",
+    "WEB":"https://ishoj.inst.dk/Foresides/IntraForeside.aspx?Location=IP.C",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"dag@ishoj.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Ovenkæret 12&postnr=2635&format=csv",
+    "ADRESSE-KORREKTION":"Ovenkæret 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.34489054,55.61151138 ]
+    },
+    "properties": {
+    "NAVN":"Honningbien",
+    "KOMMUNE":"Ishøj",
+    "ADRESSE":"Fyrrelunden 3",
+    "POSTNR":"2635",
+    "POSTDISTRIKT":"Ishøj",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"60616500",
+    "WEB":"www.dagplejenhonningbien.dk/velkommen",
+    "MA":"07:00-16:00",
+    "TI":"07:00-16:00",
+    "ON":"07:00-16:00",
+    "TO":"07:00-16:00",
+    "FR":"07:00-16:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"dagplejenhonningbien@gmail.com",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Fyrrelunden 3&postnr=2635&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5082013,55.77777314 ]
+    },
+    "properties": {
+    "NAVN":"Tinas Dagpleje",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Baunehøjvej 1",
+    "POSTNR":"2800",
+    "POSTDISTRIKT":"Kongens Lyngby",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"45877668",
+    "WEB":"https://sites.google.com/site/dagplejerlyngby/",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"tina.dagplejer@gmail.com",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Baunehøjvej 1&postnr=2800&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.48389019,55.76234913 ]
+    },
+    "properties": {
+    "NAVN":"Privatdagplejen Stjernedrys",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Granhøjvej 3",
+    "POSTNR":"2800",
+    "POSTDISTRIKT":"Kongens Lyngby",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"26193342",
+    "WEB":"www.dagplejenstjernedrys.dk/",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"maiken.bennetzen@mail.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Granhøjvej 3&postnr=2800&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51914657,55.77334003 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen Sneglehuset",
+    "KOMMUNE":"Lyngby-Taarbæk",
+    "ADRESSE":"Torsvang 22",
+    "POSTNR":"2800",
+    "POSTDISTRIKT":"Kongens Lyngby",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"41281449",
+    "WEB":"privatdagpleje-sneglehuset.123hjemmeside.dk/",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"sneglehuset280@hotmail.com",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Torsvang 22&postnr=2800&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.45621299,55.68250278 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen",
+    "KOMMUNE":"Rødovre",
+    "ADRESSE":"Gunnekær 60",
+    "POSTNR":"2610",
+    "POSTDISTRIKT":"Rødovre",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"36377551",
+    "WEB":"https://rk.inst.dk/Foresides/IntraForeside.aspx?Location=IP.18",
+    "MA":"08:00-15:00",
+    "TI":"08:00-15:00",
+    "ON":"08:00-15:00",
+    "TO":"08:00-16:00",
+    "FR":"08:00-14:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Gunnekær 60&postnr=2610&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.44506405,55.69497383 ]
+    },
+    "properties": {
+    "NAVN":"Persillestuen",
+    "KOMMUNE":"Rødovre",
+    "ADRESSE":"Tinderhøj Vænge 16",
+    "POSTNR":"2610",
+    "POSTDISTRIKT":"Rødovre",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"20733307",
+    "WEB":"www.persillestuen.dk",
+    "MA":"7.45 - 15.30",
+    "TI":"7.45 - 15.30",
+    "ON":"7.45 - 15.30",
+    "TO":"7.45 - 15.30",
+    "FR":"7.45 - 14.30",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"diana@persillestuen.dk",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Tinderhøj Vænge 16&postnr=2610&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.48814657,55.69006257 ]
+    },
+    "properties": {
+    "NAVN":"Rikke Neel Petersen",
+    "KOMMUNE":"København",
+    "ADRESSE":"Jernbane Allé 73, 1. th",
+    "POSTNR":"2720",
+    "POSTDISTRIKT":"Vanløse",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"51342078",
+    "WEB":"www.rikkesprivatbornepasning.dk/181992856",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"rikkeneel@gmail.com",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Jernbane Allé 73, 1. th&postnr=2720&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6193701,55.63391132 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejekontoret Tårnby Rådhus",
+    "KOMMUNE":"Tårnby",
+    "ADRESSE":"Amager Landevej 76",
+    "POSTNR":"2770",
+    "POSTDISTRIKT":"Kastrup",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"32471111",
+    "WEB":"",
+    "MA":"06:30-17:00",
+    "TI":"06:30-17:00",
+    "ON":"06:30-17:00",
+    "TO":"06:30-17:00",
+    "FR":"06:30-17:00",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Amager Landevej 76&postnr=2770&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5944572,55.64935913 ]
+    },
+    "properties": {
+    "NAVN":"Amager Dagpleje",
+    "KOMMUNE":"København",
+    "ADRESSE":"Kurvemagerstien 68",
+    "POSTNR":"2300",
+    "POSTDISTRIKT":"København  s",
+    "ETABLERINGSFORM":"Privat",
+    "TYPE":"Dagpleje",
+    "TELEFON":"28562856",
+    "WEB":"www.amagerdagpleje.dk/126786938",
+    "MA":"07:15-16:15",
+    "TI":"07:15-16:15",
+    "ON":"07:15-16:15",
+    "TO":"07:15-16:15",
+    "FR":"07:15-16:15",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Kurvemagerstien 68&postnr=2300&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.36692897,55.63521886 ]
+    },
+    "properties": {
+    "NAVN":"Dagplejen Højrupgård",
+    "KOMMUNE":"Vallensbæk",
+    "ADRESSE":"Højrupgårdsvej 3",
+    "POSTNR":"2625",
+    "POSTDISTRIKT":"Vallensbæk ",
+    "ETABLERINGSFORM":"Kommunal",
+    "TYPE":"Dagpleje",
+    "TELEFON":"43504050",
+    "WEB":"",
+    "MA":"",
+    "TI":"",
+    "ON":"",
+    "TO":"",
+    "FR":"",
+    "LO":"",
+    "SO":"",
+    "KLYNGE":"",
+    "ANDET":"",
+    "EMAIL":"",
+    "ADRESSE-LINK":"http://dawa.aws.dk/adresser?q=Højrupgårdsvej 3&postnr=2625&format=csv",
+    "ADRESSE-KORREKTION":""
+    }
+  }
+]
+}
