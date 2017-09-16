@@ -116,7 +116,7 @@
           cursor: pointer;
           height: 32px;
           width: 32px;
-          background-image: url('/assets/img/marker.png');
+/*          background-image: url('/assets/img/marker.png'); */
           background-color: rgba(0, 0, 0, 0);
         }
 
@@ -348,7 +348,53 @@ var dagplejer = (function() {
       type: "symbol",
       source: "vuggestuer",
       filter: ["!has", "point_count"]
+        paint: {
+            "circle-color": "#8cc63f",
+            "circle-radius": 4,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#fff"
+        }
     });
+
+    map.addLayer({
+      id: "boernehaver",
+      type: "symbol",
+      source: "boernehaver",
+      filter: ["!has", "point_count"]
+        paint: {
+            "circle-color": "#8cc63f",
+            "circle-radius": 4,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#fff"
+        }
+    });
+
+    map.addLayer({
+      id: "integrerede",
+      type: "symbol",
+      source: "integrerede",
+      filter: ["!has", "point_count"]
+        paint: {
+            "circle-color": "#8cc63f",
+            "circle-radius": 4,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#fff"
+        }
+    });
+
+    map.addLayer({
+      id: "dagplejer",
+      type: "symbol",
+      source: "dagplejer",
+      filter: ["!has", "point_count"]
+        paint: {
+            "circle-color": "#8cc63f",
+            "circle-radius": 4,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#fff"
+        }
+    });
+
     // Initialize the list
     buildLocationList(vuggestuer);
     buildLocationList(boernehaver);
