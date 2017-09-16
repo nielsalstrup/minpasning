@@ -216,88 +216,25 @@
   });
 
 
-var vuggestuer = (function() {
-        var vuggestuer = null;
+var institutions = (function() {
+        var institutions = null;
         $.ajax({
             'async': false,
             'url': "https://nielsalstrup.github.io/minpasning/data/HOVEDSTADEN-VUGGESTUER.geojson",
             'dataType': "json",
             'success': function (data) {
-                vuggestuer = data;
+                institutions = data;
             }
         });
-        return vuggestuer;
-    })();
-
-var boernehaver = (function() {
-        var boernehaver = null;
-        $.ajax({
-            'async': false,
-            'url': "https://nielsalstrup.github.io/minpasning/data/HOVEDSTADEN-BOERNEHAVER.geojson",
-            'dataType': "json",
-            'success': function (data) {
-                boernehaver = data;
-            }
-        });
-        return boernehaver;
-    })();
-
-var integrerede = (function() {
-        var integrerede = null;
-        $.ajax({
-            'async': false,
-            'url': "https://nielsalstrup.github.io/minpasning/data/HOVEDSTADEN-INTEGREREDE.geojson",
-            'dataType': "json",
-            'success': function (data) {
-                integrerede = data;
-            }
-        });
-        return integrerede;
-    })();
-
-var dagplejer = (function() {
-        var dagplejer = null;
-        $.ajax({
-            'async': false,
-            'url': "https://nielsalstrup.github.io/minpasning/data/HOVEDSTADEN-DAGPLEJER.geojson",
-            'dataType': "json",
-            'success': function (data) {
-                dagplejer = data;
-            }
-        });
-        return dagplejer;
+        return institutions;
     })();
 
   // This adds the data to the map
   map.on('load', function (e) {
     // This is where your '.addLayer()' used to be, instead add only the source without styling a layer
-    map.addSource("vuggestuer", {
+    map.addSource("places", {
       "type": "geojson",
-      "data": vuggestuer,
-      cluster: true,
-      clusterMaxZoom: 14, // Max zoom to cluster points on
-      clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
-    });
-
-    map.addSource("boernehaver", {
-      "type": "geojson",
-      "data": boernehaver,
-      cluster: true,
-      clusterMaxZoom: 14, // Max zoom to cluster points on
-      clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
-    });
-
-    map.addSource("integrerede", {
-      "type": "geojson",
-      "data": integrerede,
-      cluster: true,
-      clusterMaxZoom: 14, // Max zoom to cluster points on
-      clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
-    });
-
-    map.addSource("dagplejer", {
-      "type": "geojson",
-      "data": dagplejer,
+      "data": institutions,
       cluster: true,
       clusterMaxZoom: 14, // Max zoom to cluster points on
       clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
@@ -306,35 +243,7 @@ var dagplejer = (function() {
     map.addLayer({
       id: "clusters",
       type: "circle",
-      source: "vuggestuer",
-      filter: ["has", "point_count"],
-      paint: {
-          "circle-color": {
-              property: "point_count",
-              type: "interval",
-              stops: [
-                  [0, "#ff6600"],
-                  [25, "#e63300"],
-                  [150, "#cc0000"]
-              ]
-          },
-          "circle-radius": {
-              property: "point_count",
-              type: "interval",
-              stops: [
-                  [0, 20],
-                  [25, 30],
-                  [150, 50]
-              ]
-          },
-          "circle-blur": 0.25
-      }
-    });
-
-    map.addLayer({
-      id: "clusters",
-      type: "circle",
-      source: "boernehaver",
+      source: "places",
       filter: ["has", "point_count"],
       paint: {
           "circle-color": {
@@ -378,15 +287,13 @@ var dagplejer = (function() {
       filter: ["!has", "point_count"]
     });
     // Initialize the list
-    buildLocationList(vuggestuer);
-    buildLocationList(boernehaver);
-    buildLocationList(integrerede);
-    buildLocationList(dagplejer);
+    buildLocationList(institutions);
+
   });
 
   // This is where your interactions with the symbol layer used to be
   // Now you have interactions with DOM markers instead
-  vuggestuer.features.forEach(function(marker, i) {
+  institutions.features.forEach(function(marker, i) {
     // Create an img element for the marker
     var el = document.createElement('div');
     el.id = "marker-" + i;
