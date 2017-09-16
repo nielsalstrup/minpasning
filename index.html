@@ -304,7 +304,7 @@ var dagplejer = (function() {
       link.innerHTML = prop.NAVN;
 
       var type = listing.appendChild(document.createElement('span'));
-      type.innerHTML = ' (' + prop.ETABLERINGSFORM + ' ' + prop.TYPE + ')';
+      type.innerHTML = ' (' + prop.ETABLERINGSFORM + ' ' + prop.TYPE.toLowerCase() + ')';
 
       var details = listing.appendChild(document.createElement('div'));
       details.innerHTML = prop.POSTDISTRIKT;
