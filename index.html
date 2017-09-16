@@ -184,7 +184,7 @@
   <body>
     <div class='sidebar'>
       <div class='heading'>
-        <h1>Vuggestuer</h1>
+        <h1>Daginstitutioner</h1>
       </div>
     <div id='listings' class='listings'></div>
     </div>
@@ -306,34 +306,6 @@ var dagplejer = (function() {
     map.addLayer({
       id: "clusters",
       type: "circle",
-      source: "vuggestuer",
-      filter: ["has", "point_count"],
-      paint: {
-          "circle-color": {
-              property: "point_count",
-              type: "interval",
-              stops: [
-                  [0, "#ff6600"],
-                  [25, "#e63300"],
-                  [150, "#cc0000"]
-              ]
-          },
-          "circle-radius": {
-              property: "point_count",
-              type: "interval",
-              stops: [
-                  [0, 20],
-                  [25, 30],
-                  [150, 50]
-              ]
-          },
-          "circle-blur": 0.25
-      }
-    });
-
-    map.addLayer({
-      id: "clusters",
-      type: "circle",
       source: "boernehaver",
       filter: ["has", "point_count"],
       paint: {
@@ -372,9 +344,9 @@ var dagplejer = (function() {
     });
  
     map.addLayer({
-      id: "unclustered-point",
+      id: "vuggestuer",
       type: "symbol",
-      source: "places",
+      source: "vuggestuer",
       filter: ["!has", "point_count"]
     });
     // Initialize the list
