@@ -345,7 +345,7 @@ var dagplejer = (function() {
  
     map.addLayer({
       id: "vuggestuer",
-      type: "symbol",
+      type: "circle",
       source: "vuggestuer",
       filter: ["!has", "point_count"],
       paint: {
@@ -358,7 +358,7 @@ var dagplejer = (function() {
 
     map.addLayer({
       id: "boernehaver",
-      type: "symbol",
+      type: "circle",
       source: "boernehaver",
       filter: ["!has", "point_count"],
       paint: {
@@ -371,7 +371,7 @@ var dagplejer = (function() {
 
     map.addLayer({
       id: "integrerede",
-      type: "symbol",
+      type: "circle",
       source: "integrerede",
       filter: ["!has", "point_count"],
       paint: {
@@ -384,7 +384,7 @@ var dagplejer = (function() {
 
     map.addLayer({
       id: "dagplejer",
-      type: "symbol",
+      type: "circle",
       source: "dagplejer",
       filter: ["!has", "point_count"],
       paint: {
