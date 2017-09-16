@@ -18,6 +18,7 @@
       </div>
     <div id='listings' class='listings'></div>
     </div>
+    <div id='filters' class='filters'></div>
     <div id='map' class='map'> </div>
 
   <script>
@@ -300,7 +301,10 @@ var dagplejer = (function() {
       link.href = '#';
       link.className = 'title';
       link.dataPosition = i;
-      link.innerHTML = prop.NAVN + ' (' + prop.ETABLERINGSFORM + ' ' + prop.TYPE + ')';
+      link.innerHTML = prop.NAVN;
+
+      var type = listing.appendChild(document.createElement('span'));
+      type.innerHTML = ' (' + prop.ETABLERINGSFORM + ' ' + prop.TYPE + ')';
 
       var details = listing.appendChild(document.createElement('div'));
       details.innerHTML = prop.POSTDISTRIKT;
