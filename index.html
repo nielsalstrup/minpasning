@@ -38,7 +38,8 @@
     // container id specified in the HTML
     container: 'map',
     // style URL
-    style: 'mapbox://styles/mapbox/traffic-day-v2',
+    //style: 'mapbox://styles/nalstrup/cj7qbe8ky5hfw2rmnh8tnryys',
+    style: 'mapbox://styles/danbolig/cj5v0a0v062bw2slbdpjx7ux9',
     // initial position in [long, lat] format
     center: [12.758819, 55.609151],
     // initial zoom
@@ -134,10 +135,10 @@ var dagplejer = (function() {
       clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
     });
 
-    map.addLayer({
+/*    map.addLayer({
       id: "clusters",
       type: "circle",
-      source: "vuggestuer",
+      source: ["vuggestuer","boernehaver","integrede","dagplejer"],
       filter: ["has", "point_count"],
       paint: {
           "circle-color": {
@@ -173,14 +174,14 @@ var dagplejer = (function() {
           "text-size": 12
       }
     });
- 
+*/ 
     map.addLayer({
       id: "vuggestuer",
       type: "circle",
       source: "vuggestuer",
       filter: ["!has", "point_count"],
       paint: {
-          "circle-color": "#8cc63f",
+          "circle-color": "#dd0000",
           "circle-radius": 4,
           "circle-stroke-width": 1,
           "circle-stroke-color": "#fff"
@@ -193,7 +194,7 @@ var dagplejer = (function() {
       source: "boernehaver",
       filter: ["!has", "point_count"],
       paint: {
-          "circle-color": "#8cc63f",
+          "circle-color": "#dd0000",
           "circle-radius": 4,
           "circle-stroke-width": 1,
           "circle-stroke-color": "#fff"
@@ -206,7 +207,7 @@ var dagplejer = (function() {
       source: "integrerede",
       filter: ["!has", "point_count"],
       paint: {
-          "circle-color": "#8cc63f",
+          "circle-color": "#dd0000",
           "circle-radius": 4,
           "circle-stroke-width": 1,
           "circle-stroke-color": "#fff"
@@ -219,7 +220,7 @@ var dagplejer = (function() {
       source: "dagplejer",
       filter: ["!has", "point_count"],
       paint: {
-          "circle-color": "#8cc63f",
+          "circle-color": "#dd0000",
           "circle-radius": 4,
           "circle-stroke-width": 1,
           "circle-stroke-color": "#fff"
@@ -239,7 +240,7 @@ var dagplejer = (function() {
     // Create an img element for the marker
     var el = document.createElement('div');
     el.id = "marker-" + i;
-    el.className = 'marker';
+    el.className = marker.properties.ETABLERINGSFORM.toLowerCase() + '-vuggestue-marker';
     // Add markers to the map at all points
     new mapboxgl.Marker(el, {offset: [-28, -46]})
         .setLngLat(marker.geometry.coordinates)
@@ -281,7 +282,7 @@ var dagplejer = (function() {
 
     var popup = new mapboxgl.Popup({closeOnClick: false})
           .setLngLat(currentFeature.geometry.coordinates)
-          .setHTML('<h3>' + currentFeature.properties.NAVN + '</h3>' +
+          .setHTML('<h3 class="'+ currentFeature.properties.ETABLERINGSFORM.toLowerCase() +'">' + currentFeature.properties.NAVN + '</h3>' +
             '<h4>' + currentFeature.properties.ADRESSE + '</h4>')
           .addTo(map);
   }
@@ -304,7 +305,14 @@ var dagplejer = (function() {
       link.innerHTML = prop.NAVN;
 
       var type = listing.appendChild(document.createElement('span'));
-      type.innerHTML = ' (' + prop.ETABLERINGSFORM + ' ' + prop.TYPE.toLowerCase() + ')';
+      type.className = 'type';
+      if (prop.ETABLERINGSFORM=='') {
+         type.innerHTML = prop.Type;
+      }
+      else {
+         type.innerHTML = prop.ETABLERINGSFORM + ' ' + prop.TYPE.toLowerCase();
+     }
+     
 
       var details = listing.appendChild(document.createElement('div'));
       details.innerHTML = prop.POSTDISTRIKT;
